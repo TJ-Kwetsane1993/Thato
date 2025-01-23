@@ -1,65 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
-  <diagram name="Page-1" id="z-MeSIEdtIaJIWiVlCak">
-    <mxGraphModel dx="794" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
+  <diagram name="Page-1" id="oxvj2rYACXsbJbnH4Xmt">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pG-BBdyjVo8866EGbHZU-1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-460" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="90" y="-420.5" as="sourcePoint" />
-            <mxPoint x="180" y="-420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-4" value="Implement a Call Management System that automatically selects random agent calls every day." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="-460" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="300" y="-420.5" as="sourcePoint" />
-            <mxPoint x="390" y="-420" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-6" value="The system compiles these selected calls into a digital database." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="-460" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="510" y="-420.5" as="sourcePoint" />
-            <mxPoint x="600" y="-420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-8" value="&lt;div&gt;The system is programmed to send an email to the QA team daily.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The email contains direct links to the selected calls, eliminating the need for manual compilation.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-480" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" target="pG-BBdyjVo8866EGbHZU-10" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="679.5" y="-360" as="sourcePoint" />
-            <mxPoint x="680" y="-280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="679.5" y="-320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-10" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;QA team receives the email in their Outlook.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QA clicks the links in the email, which open directly in the Call Management System, bypassing the need for spreadsheets.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-310" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-11" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;QA&lt;br&gt;team logs into the audit software.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="-70" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="pG-BBdyjVo8866EGbHZU-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="689.5" y="-190" as="sourcePoint" />
-            <mxPoint x="689.5" y="-70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="689.5" y="-150" />
-              <mxPoint x="689.5" y="-130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
