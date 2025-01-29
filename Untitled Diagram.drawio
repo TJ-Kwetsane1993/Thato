@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wg-GnwHkfto2ueyZm147-41" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="441" y="25" width="30" height="30" as="geometry" />
+          <mxGeometry x="432" y="25" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wg-GnwHkfto2ueyZm147-44" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;audits for resolution&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;strokeWidth=2;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="500" y="15" width="61" height="45" as="geometry" />
