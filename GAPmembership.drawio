@@ -50,11 +50,6 @@
         <mxCell id="fAiptgPwoaIp5djZWvxq-64" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="480" y="160" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fAiptgPwoaIp5djZWvxq-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="fAiptgPwoaIp5djZWvxq-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fAiptgPwoaIp5djZWvxq-67" value="provide putty stats" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="380" y="100" width="80" height="30" as="geometry" />
         </mxCell>
@@ -336,6 +331,17 @@
         </mxCell>
         <mxCell id="fAiptgPwoaIp5djZWvxq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.283;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAiptgPwoaIp5djZWvxq-5" target="fAiptgPwoaIp5djZWvxq-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAiptgPwoaIp5djZWvxq-108" value="Jasper provides putty stats" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-40" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fAiptgPwoaIp5djZWvxq-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=30;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAiptgPwoaIp5djZWvxq-67" target="fAiptgPwoaIp5djZWvxq-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAiptgPwoaIp5djZWvxq-109" value="MIP provides workflows" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-40" width="90" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
