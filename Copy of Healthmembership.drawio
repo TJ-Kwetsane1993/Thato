@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="Mo5LXh9xZfSiJ2UVL5K4">
-    <mxGraphModel dx="794" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,15 +155,15 @@
         <mxCell id="YWEc_yPuf_eXvl1y4lAa-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.889;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3YAbdTH7UzKuv2VdQoLU-2" source="3YAbdTH7UzKuv2VdQoLU-49" target="YWEc_yPuf_eXvl1y4lAa-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9tu1RrZbz1C6bqo-8NHG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3YAbdTH7UzKuv2VdQoLU-2" source="9tu1RrZbz1C6bqo-8NHG-5">
+        <mxCell id="9tu1RrZbz1C6bqo-8NHG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3YAbdTH7UzKuv2VdQoLU-2" source="9tu1RrZbz1C6bqo-8NHG-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tu1RrZbz1C6bqo-8NHG-5" value="selects workflow" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="3YAbdTH7UzKuv2VdQoLU-2">
+        <mxCell id="9tu1RrZbz1C6bqo-8NHG-5" value="selects workflow" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="3YAbdTH7UzKuv2VdQoLU-2" vertex="1">
           <mxGeometry x="90" y="112.25" width="60" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="9tu1RrZbz1C6bqo-8NHG-7" value="retrieves workflow information" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="3YAbdTH7UzKuv2VdQoLU-2">
+        <mxCell id="9tu1RrZbz1C6bqo-8NHG-7" value="retrieves workflow information" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="3YAbdTH7UzKuv2VdQoLU-2" vertex="1">
           <mxGeometry x="146" y="240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3YAbdTH7UzKuv2VdQoLU-23" value="REM digital system" style="swimlane;html=1;startSize=20;horizontal=0;" parent="3YAbdTH7UzKuv2VdQoLU-1" vertex="1">
@@ -267,12 +267,12 @@
         <mxCell id="3YAbdTH7UzKuv2VdQoLU-67" value="sends to team leader/manager" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="3YAbdTH7UzKuv2VdQoLU-23" vertex="1">
           <mxGeometry x="840" y="170" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9tu1RrZbz1C6bqo-8NHG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="3YAbdTH7UzKuv2VdQoLU-23" source="9tu1RrZbz1C6bqo-8NHG-2">
+        <mxCell id="9tu1RrZbz1C6bqo-8NHG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="3YAbdTH7UzKuv2VdQoLU-23" source="9tu1RrZbz1C6bqo-8NHG-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tu1RrZbz1C6bqo-8NHG-2" value="receives workflow" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="3YAbdTH7UzKuv2VdQoLU-23">
+        <mxCell id="9tu1RrZbz1C6bqo-8NHG-2" value="receives workflow" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="3YAbdTH7UzKuv2VdQoLU-23" vertex="1">
           <mxGeometry x="90" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3YAbdTH7UzKuv2VdQoLU-50" value="external systems" style="swimlane;html=1;startSize=20;horizontal=0;" parent="3YAbdTH7UzKuv2VdQoLU-1" vertex="1">
@@ -383,7 +383,7 @@
             <mxPoint x="263" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tu1RrZbz1C6bqo-8NHG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3YAbdTH7UzKuv2VdQoLU-1" source="9tu1RrZbz1C6bqo-8NHG-7" target="3YAbdTH7UzKuv2VdQoLU-51">
+        <mxCell id="9tu1RrZbz1C6bqo-8NHG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3YAbdTH7UzKuv2VdQoLU-1" source="9tu1RrZbz1C6bqo-8NHG-7" target="3YAbdTH7UzKuv2VdQoLU-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3YAbdTH7UzKuv2VdQoLU-80" value="MIP creates workflows and captures interactions" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
@@ -401,8 +401,8 @@
             <mxPoint x="145.81500000000005" y="1079" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tu1RrZbz1C6bqo-8NHG-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-40" width="140" height="160" as="geometry" />
+        <mxCell id="9tu1RrZbz1C6bqo-8NHG-1" value="The REM process begins with the subdepartments within the Health Division, specifically in Health Membership, utilizing a database called MIP. These subdepartments initiate workflows, which are then reviewed and audited by the Quality team." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="50" width="320" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
