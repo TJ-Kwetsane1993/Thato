@@ -10,15 +10,15 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="430" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="8BlDINVFI2ra3J5OvDuW-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="8BlDINVFI2ra3J5OvDuW-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="48" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8BlDINVFI2ra3J5OvDuW-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="8BlDINVFI2ra3J5OvDuW-2" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="8BlDINVFI2ra3J5OvDuW-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-20" source="8BlDINVFI2ra3J5OvDuW-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="63" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8BlDINVFI2ra3J5OvDuW-6" value="views agent list" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="8BlDINVFI2ra3J5OvDuW-6" value="views agent list" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="33" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
@@ -27,7 +27,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="300" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8BlDINVFI2ra3J5OvDuW-1" value="This process flow aims to describe the audit process that currently takes place to calculate the REM of Kaelo agents. The focus of this document is on the Health Claims agents." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="8BlDINVFI2ra3J5OvDuW-1" value="This process flow aims to describe the audit process that currently takes place to calculate the REM of Kaelo agents. The focus of this process flow is on the Health Claims agents." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="220" width="300" height="110" as="geometry" />
         </mxCell>
       </root>
