@@ -1,53 +1,55 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="810" height="560" as="geometry" />
+          <mxGeometry x="120" y="120" width="810" height="610" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Invoicing system" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="790" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.497;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="BcFGD0WW04qHaMd6meB6-10">
+        <mxCell id="t0UmOrOMIOyCs7az6NML-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="BcFGD0WW04qHaMd6meB6-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="191" y="130" as="targetPoint" />
-            <mxPoint x="191" y="91" as="sourcePoint" />
+            <mxPoint x="185.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-12" value="1st day" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BcFGD0WW04qHaMd6meB6-11">
-          <mxGeometry x="0.0977" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="BcFGD0WW04qHaMd6meB6-10" value="&lt;span style=&quot;font-family: Aptos, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;generate invoices&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="141" y="28" width="89" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-10" value="&lt;span style=&quot;font-family: Aptos, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;generate proforma invoices automatically based on active members&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="141" y="20" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="BcFGD0WW04qHaMd6meB6-17" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="BcFGD0WW04qHaMd6meB6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-20" source="BcFGD0WW04qHaMd6meB6-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-17" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="BcFGD0WW04qHaMd6meB6-17" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="60" y="28" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="BcFGD0WW04qHaMd6meB6-20">
+        <mxCell id="t0UmOrOMIOyCs7az6NML-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="t0UmOrOMIOyCs7az6NML-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="191" y="260" as="targetPoint" />
+            <mxPoint x="186" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-20" value="&lt;span style=&quot;font-family: Aptos, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;send&lt;br&gt;proforma invoices to clients via email.&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="141" y="130" width="100" height="60" as="geometry" />
+        <mxCell id="t0UmOrOMIOyCs7az6NML-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;send invoices to clients&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="141" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Employer data submission portal" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="220" width="790" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="BcFGD0WW04qHaMd6meB6-13" value="&lt;span style=&quot;font-family: Aptos, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;upload data on new and terminated employees&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="141" y="40" width="100" height="60" as="geometry" />
+        <mxCell id="t0UmOrOMIOyCs7az6NML-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="t0UmOrOMIOyCs7az6NML-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Jurant" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="440" width="790" height="120" as="geometry" />
+        <mxCell id="t0UmOrOMIOyCs7az6NML-5" value="&lt;span style=&quot;font-family: Aptos, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;upload&lt;br&gt;data on new and terminated members&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="141" y="22" width="94.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="440" width="790" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="t0UmOrOMIOyCs7az6NML-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;welcome message and AML scan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="143.25" y="31" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
