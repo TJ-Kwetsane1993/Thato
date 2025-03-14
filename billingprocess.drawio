@@ -55,9 +55,6 @@
             <mxPoint x="412" y="155" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t0UmOrOMIOyCs7az6NML-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;send reminders, track and log payments&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="360" y="115" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="pw43H-0fuYo3hrAkm01h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="279" as="targetPoint" />
